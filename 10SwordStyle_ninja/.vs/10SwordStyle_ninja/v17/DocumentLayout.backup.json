@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|solutionrelative:SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\DrawPixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|solutionrelative:DrawPixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{405534F4-020F-4ECA-B945-FCDEE29FB271}|10SwordStyle_ninja.vcxproj|solutionrelative:SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-06T01:09:04.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneMain.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\SceneMain.h",
+              "RelativeDocumentMoniker": "SceneMain.h",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\SceneMain.h",
+              "RelativeToolTip": "SceneMain.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-06T01:09:14.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawPixel.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\DrawPixel.cpp",
+              "RelativeDocumentMoniker": "DrawPixel.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\DrawPixel.cpp",
+              "RelativeToolTip": "DrawPixel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-06T01:09:04.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-06T01:08:52.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneMain.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\SceneMain.cpp",
+              "RelativeDocumentMoniker": "SceneMain.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\10SwordStyle_ninja\\SceneMain.cpp",
+              "RelativeToolTip": "SceneMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-06T01:09:18.264Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
