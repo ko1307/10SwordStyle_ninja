@@ -44,7 +44,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 
 	WaitKey();				// キー入力待ち
 
-	DxLib_End();				// ＤＸライブラリ使用の終了処理
+	DxLib_End();				// ＤＸライブラリ使用の終了処理 
 
 	return 0;				// ソフトの終了 
 }

@@ -6,7 +6,13 @@ private:
 	Player() {}
 	//デストラクタ
 	~Player() {}
+	void Init();
+	void End();
+	void Update();
+	void Draw();
 
-	//あいうえお
+private:
+
+	
 };
 
